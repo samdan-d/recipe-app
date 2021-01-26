@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "myenv\\Scripts\\python.exe",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.vscode": true,
+        "**/myenv/": true
+    },
+    "python.formatting.provider": "black",
+    "pythonTestExplorer.testFramework": "unittest",
+    "search.exclude": {
+        "**/__pycache__": true
+    },
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 16
+}
